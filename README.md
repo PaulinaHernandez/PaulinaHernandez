@@ -1,9 +1,5 @@
 ### Hola I'm Paulina!
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sql,aws,azure,databricks,kubernetes,docker" />
-  </a>
-</p>
+
 I'm an AI/ML Engineer with a deep-seated passion for turning complex challenges into innovative solutions. I love diving into the world of Large Language Models (LLM) and Convolutional Neural Networks (CNN), transforming ideas into reality. Whether it's brainstorming the initial concept or deploying the final product.
 
 What I Bring to the Table
@@ -21,6 +17,12 @@ When I'm not geeking out over the latest AI trend, you might find me exploring n
 I'm on the lookout for opportunities to collaborate and make a positive impact with AI/ML. Whether you're in need of a team player for your next project or just want to chat about the future of technology, feel free to reach out! 💬
 
 Skills: Python | SQL | Pytorch / Tensorflow | ML Flow | Azure
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,azure,kubernetes,docker" />
+  </a>
+</p>
 
 YouTube
 
