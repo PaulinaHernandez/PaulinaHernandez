@@ -1,5 +1,5 @@
 ### Hola I'm Paulina!
-#### AI/ML Engineer | LLM | CNN
+#### 
 I'm an AI/ML Engineer with a deep-seated passion for turning complex challenges into innovative solutions. I love diving into the world of Large Language Models (LLM) and Convolutional Neural Networks (CNN), transforming ideas into reality. Whether it's brainstorming the initial concept or deploying the final product.
 
 What I Bring to the Table
