@@ -4,7 +4,9 @@ I'm an AI/ML Engineer with a deep-seated passion for turning complex challenges 
 
 What I Bring to the Table
 
-<b>Programming Expertise:</b> Skilled in Python and SQL, specializing in the development of machine learning models and applications utilizing PyTorch, alongside experience with TensorFlow, Langchain, and OpenAI's LLama2 for advanced AI projects. <b>Cloud Computing:</b>  Proficient with Azure ML and AWS, making sure our AI/ML projects run smoothly and efficiently in the cloud. <b>Data Visualization</b> Adept in leveraging Matplotlib, Seaborn, and PowerBI to create advanced visual representations of data. Exceptional at translating intricate data sets into coherent, compelling narratives that support strategic decision-making throughout an organization.
+<b>Programming Expertise:</b> Skilled in Python and SQL, specializing in the development of machine learning models and applications utilizing PyTorch, alongside experience with TensorFlow, Langchain, and OpenAI's LLama2 for advanced AI projects. 
+<b>Cloud Computing:</b>  Proficient with Azure ML and AWS, making sure our AI/ML projects run smoothly and efficiently in the cloud. 
+<b>Data Visualization</b> Adept in leveraging Matplotlib, Seaborn, and PowerBI to create advanced visual representations of data. Exceptional at translating intricate data sets into coherent, compelling narratives that support strategic decision-making throughout an organization.
 
 🌱 The world of AI/ML is always evolving, and so am I. Currently, I'm studying a Data Science course from the University of Austin Texas, and getting a Azure Associate Data science Certification.
 
