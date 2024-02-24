@@ -21,7 +21,7 @@ Skills: Python | SQL | Pytorch / Tensorflow | ML Flow | Azure ML
 YouTube
 
 
-#WomeninTech
+#WomeninTech #Latina #WomeninAI #DiversityinTech
 
 
 
