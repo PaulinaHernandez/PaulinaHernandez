@@ -17,7 +17,7 @@ When I'm not geeking out over the latest AI trend, you might find me exploring n
 I'm on the lookout for opportunities to collaborate and make a positive impact with AI/ML. Whether you're in need of a team player for your next project or just want to chat about the future of technology, feel free to reach out!
 
 
-Skills: Python / SQL / Pytorch / Tensorflow 
+Skills: Python | SQL | Pytorch / Tensorflow | ML Flow | Azure ML
 
 
 
