@@ -1,20 +1,20 @@
 ### Hola I'm Paulina!
 
-I'm an AI/ML Engineer with a deep-seated passion for turning complex challenges into innovative solutions. I love diving into the world of Large Language Models (LLM) and Convolutional Neural Networks (CNN), transforming ideas into reality. Whether it's brainstorming the initial concept or deploying the final product.
+I've found a strong passion for AI during the last couple of years. Through my different experiences in Project Management and Software Development, I have dedicated myself to learn and build AI/ML projects.
 
-What I Bring to the Table
+I love diving into the world of Large Language Models (LLM) and I also enjoy very much to work with Convolutional Neural Networks (CNN). I have worked with image classification using Pytorch and Tensorflow. As for Generative AI, I also have some experience with Generative Adversarial Networks (GANs) this last one just for the love of learning.
 
-<b>Programming Expertise:</b> Skilled in Python and SQL, specializing in the development of machine learning models and applications utilizing PyTorch, alongside experience with TensorFlow, Langchain, and OpenAI's LLama2 for advanced AI projects.</br> 
-<b>Cloud Computing:</b>  Proficient with Azure ML and AWS, making sure our AI/ML projects run smoothly and efficiently in the cloud.</br>
-<b>Data Visualization</b> Adept in leveraging Matplotlib, Seaborn, and PowerBI to create advanced visual representations of data. Exceptional at translating intricate data sets into coherent, compelling narratives that support strategic decision-making throughout an organization.
+I'm committed to excelling in this field as part of my journey, I just concluded Data Science postgraduate course from the University of Austin Texas and I'm currently studying for my Azure Associate Data Science Certification. 
 
-🌱 The world of AI/ML is always evolving, and so am I. Currently, I'm studying a Data Science course from the University of Austin Texas, and getting a Azure Associate Data science Certification.
+As an AI enthusiasm I like to engage with the community, whether through tech meetups or hackathons to build AI projects as I like collaborative environments and working with diverse teams to sometimes as a developer and sometimes as a project manager planning and overseeing a project from conception to completion, I love to bridge people and technology.
 
-A Bit More About Me:
+I'm on the lookout for opportunities to collaborate and make a positive impact with AI/ML. Whether you're in need of a team player for your next project or just want to chat about the future of technology, feel free to reach out!
 
-I'm a problem solver at heart, and I believe that there's no challenge too big to tackle with the right data and a dash of creativity. I thrive in collaborative environments, working alongside people from all sorts of backgrounds who are passionate about how technology can impact our society to solve real life problems.
+Technical skills:
 
-When I'm not geeking out over the latest AI trend, you might find me exploring new tech meetups, sharing knowledge with peers, or just enjoying a good coffee while plotting the next big thing. 
+Programming Expertise: Python and SQL, specializing in the development of machine learning models and applications utilizing PyTorch, TensorFlow, Langchain, and OpenAI, Gemini, LLama2.
+Cloud Computing: Proficient with Azure ML and AWS
+Data Visualization Expertise: Adept in leveraging Matplotlib, Seaborn, and PowerBI
 
 I'm on the lookout for opportunities to collaborate and make a positive impact with AI/ML. Whether you're in need of a team player for your next project or just want to chat about the future of technology, feel free to reach out! 💬
 
