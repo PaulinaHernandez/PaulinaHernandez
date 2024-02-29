@@ -1,6 +1,6 @@
 ### Hola I'm Paulina!
 
-I've found a strong passion for AI during the last couple of years. Through my different experiences in Project Management and Software Development, I have dedicated myself to learn and build AI/ML projects.
+I've found a strong passion for AI during the last couple of years. Through my different experiences in Project Management and Software Development, I have dedicated myself to learn and build AI and Deep learning projects.
 
 I love diving into the world of Large Language Models (LLM) and I also enjoy very much to work with Convolutional Neural Networks (CNN). I have worked with image classification using Pytorch and Tensorflow. As for Generative AI, I also have some experience with Generative Adversarial Networks (GANs) this last one just for the love of learning.
 
