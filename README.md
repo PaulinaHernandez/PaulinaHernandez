@@ -18,7 +18,7 @@ Data Visualization Expertise: Adept in leveraging Matplotlib, Seaborn, and Power
 
 I'm on the lookout for opportunities to collaborate and make a positive impact with AI/ML. Whether you're in need of a team player for your next project or just want to chat about the future of technology, feel free to reach out! 💬
 
-Skills: Python | SQL | Pytorch / Tensorflow | ML Flow | Azure ML | Databricks | Kubernetes | Dockers 
+Skills: Python | SQL | Pytorch / Tensorflow | ML Flow | Azure ML | Dockers 
 
 <p align="center">
   <a href="https://skillicons.dev">
