@@ -2,7 +2,7 @@
 
 I've found a strong passion for AI during the last couple of years. Through my different experiences in Project Management and Software Development, I have dedicated myself to learn and build AI and Deep learning projects.
 
-I love diving into the world of Large Language Models (LLM) and  Convolutional Neural Networks (CNN). As for Generative AI, I've play around Generative Adversarial Networks (GANs) this last one just for the love of learning.
+I love diving into the world of Large Language Models (LLM),  Convolutional Neural Networks (CNN) and Generative AI.
 
 I'm committed to excelling in this field as part of my journey, I just concluded Data Science postgraduate course from the University of Austin Texas and I'm currently studying for my Azure Associate Data Science Certification. 
 
