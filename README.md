@@ -4,7 +4,7 @@ I've found a strong passion for AI during the last couple of years. Through my d
 
 I love diving into the world of Large Language Models (LLM),  Convolutional Neural Networks (CNN) and Generative AI.
 
-I'm committed to excelling in this field as part of my journey, I just concluded Data Science postgraduate course from the University of Austin Texas and I'm currently studying for my Azure Associate Data Science Certification. 
+I'm committed to excelling in this field as part of my journey, I just concluded Data Science postgraduate course from the University of Austin Texas and I'm currently studying for my Azure AI Associate Certification. 
 
 As an AI enthusiasm I like to engage with the community, whether through tech meetups or hackathons to build AI projects, I like collaborative environments and working with diverse teams sometimes as a developer and sometimes as a project manager planning and overseeing from conception to completion, I love to bridge people and technology.
 
